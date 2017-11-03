@@ -9,7 +9,6 @@ density_person = .03558; %lb/in^3
 m_person = 400;%lb
 V_person = m_person/density_person;% in^3
 
-
 V_person_disp = V_person; %rough calculation
 
 %boat calc
@@ -40,7 +39,7 @@ F_buoyancy = fluid_density*V_disp; %lb/in^3 * in^3 = lb
 
 F_net = (F_buoyancy-F_g); %lb
 
-message = ['If the boat is fully submerged, the individual will float with',' ', int2str(F_net), ' pounds of force to spare.'];
+message = strcat('It will float with', ', int2str(F_net), 'pounds of force to spare');
 disp(message);
 
 %% Source: https://en.wikipedia.org/wiki/Buoyancy 
