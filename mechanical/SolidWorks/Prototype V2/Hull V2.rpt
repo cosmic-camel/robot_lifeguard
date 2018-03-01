@@ -1,0 +1,63 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Hull V2.SLDPRT
+Receiving System Product I.D.: Hull V2.SLDPRT
+File Name                    : C:\Users\Shaine\Documents\GitHub\robot_lifeguard\mechanical\SolidWorks\Prototype V2\Hull V2.IGS
+Sending System               : SolidWorks 2017
+Preprocessor Version         : SolidWorks 2017
+File Creation Date           : 180301.131005
+Model Creation Date          : 180301.131005
+Units                        : IN
+Model Space Scale            : 1
+Author                       : Shaine
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              12
+  Highest number of significant digits:                     12
+  Average number of significant digits:                11.3709
+  Maximum distance to origin:                          164.899
+  Minimum distance to origin:                          129.986
+  Effective number of significant digits:              11.0733
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+102  Composite curve                                 20        20
+110  Line                                            20        20
+126  Rational B-spline curve                         67        67
+128  Rational B-spline surface                       10        10
+142  Curve on a parametric surface                   10        10
+144  Trimmed parametric surface                      10        10
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Thursday, March 01, 2018 13:10:15
+Finish time: Thursday, March 01, 2018 13:10:18
+Processing time: 0 days, 00 hours, 00 mins, 03 secs
